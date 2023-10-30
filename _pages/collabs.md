@@ -12,7 +12,9 @@ redirect_from:
 
 ## Senior collaborators (in random order)
 
-[Nhat Ho](https://nhatptnk8912.github.io/) - Assistant Professor, Department of Statistics and Data Science, University of Texas at Austin
+[Alessandro Rinaldo](https://arinaldo.github.io/) - Professor, Department of Statistics and Data Sciences, University of Texas at Austin
+
+[Abbas Khalili](https://www.math.mcgill.ca/khalili/) - Professor, Department of Mathematics and Statistics, McGill University
 
 [Dinh Phung](http://dinhphung.ml/) - Professor, Department of Data Science and AI, Monash University
 
@@ -24,8 +26,12 @@ redirect_from:
 
 [Trung Le](https://scholar.google.ca/citations?user=gysdMxwAAAAJ&hl=en) - Assistant Professor, Faculty of Information Technology, Monash University
 
+[Quang Pham](https://sites.google.com/view/quangpham93) - Research Scientist, Machine Intellection Department, Institute for Infocomm Research, A*Star
+
 
 ## Junior collaborators (in random order)
+
+[Pedram Akbarian](https://www.linkedin.com/in/pedram-akbarian-10695a100/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
 [Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
@@ -34,6 +40,8 @@ redirect_from:
 [TrungTin Nguyen](https://trung-tinnguyen.github.io/) - Postdoctoral Fellow at the Inria centre at the University Grenoble Alpes 
 
 [Tongzheng Ren](https://www.cs.utexas.edu/~tzren/) - Ph.D Student, Department of Computer Science, University of Texas, Austin
+
+Fanqi Yan - Ph.D Student, Department of Computer Science, University of Texas, Austin
 
 [Litu Rout](https://liturout.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
