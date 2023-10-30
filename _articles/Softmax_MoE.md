@@ -1,5 +1,5 @@
 ---
-title: "Demystifying Softmax Gating in Gaussian Mixture of Experts"
+title: "Demystifying Softmax Gating Function in Gaussian Mixture of Experts"
 category: articles
 permalink: "/publications/Softmax_MoE/"
 venue: "37th Conference on Neural Information Processing Systems (NeurIPS)"
