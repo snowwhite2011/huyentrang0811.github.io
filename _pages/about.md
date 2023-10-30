@@ -18,6 +18,20 @@ Email: huynm@utexas.edu
 My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of density estimation and parameter estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models. Additionally, I am also interested in Optimal Transport theory.
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
+## Selected Preprints
+### Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts
+*__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2309.13850)]
+### A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts
+*__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2310.14188)]
+### Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts
+*__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2305.07572)]
+### On Parameter Estimation in Deviated Gaussian Mixture of Experts
+*__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
+Under review 
+
 ## Selected Publications
 ### Demystifying Softmax Gating Function in Gaussian Mixture of Experts 
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
@@ -35,20 +49,7 @@ My current research focuses on theoretical foundations for Mixture-of-Experts mo
 *__Huy Nguyen\*__, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho*<br/>
 35th Conference on Neural Information Processing Systems (NeurIPS 2021)  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html)]
 
-## Selected Preprints
 
-### A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts
-*__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2310.14188)]
-### Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts
-*__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2309.13850)]
-### Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts
-*__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2305.07572)]
-### On Parameter Estimation in Deviated Gaussian Mixture of Experts
-*__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
-Under review 
 
 ## Recent News
 - **[Oct 2023]** I received the NeurIPS 2023 Scholar Award. See you in New Orleans this December!
