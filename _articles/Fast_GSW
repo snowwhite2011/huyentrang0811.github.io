@@ -2,13 +2,13 @@
 title: "Fast Approximation of the Generalized Sliced-Wasserstein Distance"
 category: articles
 permalink: "/publications/Fast_GSW/"
-venue: "ICML 2023 Workshop on New Frontiers in Learning, Control, and Dynamical Systems"
-date: 19-06-2023
-link: https://arxiv.org/abs/2210.10268
+venue: "IEEE International Conference on Acoustics, Speech and Signal Processing"
+date: 14-04-2024
+link: https://openreview.net/forum?id=u3JeFO8G8s
 ---
 
-[comment]: <> (<a href="https://arxiv.org/abs/2210.10268">Arxiv</a>.)
-Dung Le\*, <b>Huy Nguyen\*</b>, Khai Nguyen\*, Trang Nguyen, Nhat Ho
+[comment]: <> (<a href="https://openreview.net/forum?id=u3JeFO8G8s">Arxiv</a>.)
+Dung Le\*, <b>Huy Nguyen\*</b>, Khai Nguyen\*, Trang Nguyen\*, Nhat Ho
 
 Abstract: Generalized sliced Wasserstein distance is a variant of sliced Wasserstein distance
 that exploits the power of non-linear projection through a given defining function to
