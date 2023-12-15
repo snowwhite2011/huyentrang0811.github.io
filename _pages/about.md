@@ -52,6 +52,7 @@ Under review
 
 
 ## Recent News
+- **[Dec 2023]** Our paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s)" is accepted to ICASSP 2024.
 - **[Oct 2023]** I received the NeurIPS 2023 Scholar Award. See you in New Orleans this December!
 - **[Oct 2023]** Our new paper "[A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf)" is out.
 - **[Sep 2023]** Our new paper "[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf)" is out.
