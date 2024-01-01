@@ -1,7 +1,7 @@
 ---
-permalink: /collabs/
-title: "Collaborators"
-excerpt: "Collaborators"
+permalink: /articles/
+title: "Publications"
+excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - "/wordpress/"
