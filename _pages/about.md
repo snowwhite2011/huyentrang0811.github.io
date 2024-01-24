@@ -19,39 +19,44 @@ My current research focuses on theoretical foundations for Mixture-of-Experts mo
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
-### Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts
-*__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2309.13850)]
+
 ### A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2310.14188)]
-### Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts
-*__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
-Under review [[arXiv](https://arxiv.org/abs/2305.07572)]
-### On Parameter Estimation in Deviated Gaussian Mixture of Experts
-*__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
-Under review 
 
-## Selected Publications
+## Selected Publications on Mixture of Experts
 ### Demystifying Softmax Gating Function in Gaussian Mixture of Experts 
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
-37th Conference on Neural Information Processing Systems (NeurIPS 2023) <span style="color:red"> **Spotlight** </span> [[arXiv](https://arxiv.org/abs/2305.03288)]
+Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span>. [[arXiv](https://arxiv.org/abs/2305.03288)]
+### Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts
+*__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
+In ICLR, 2024. [[arXiv](https://arxiv.org/abs/2309.13850)]
 ### Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models
 *Dat Do\*, __Huy Nguyen\*__, Khai Nguyen, Nhat Ho*<br/>
-37th Conference on Neural Information Processing Systems (NeurIPS 2023) [[arXiv](https://arxiv.org/abs/2301.11808)]
+Advances in NeurIPS, 2023. [[arXiv](https://arxiv.org/abs/2301.11808)]
+### Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts
+*__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
+In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2305.07572)]
+### On Parameter Estimation in Deviated Gaussian Mixture of Experts
+*__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
+In AISTATS, 2024.
+
+## Selected Publications on Optimal Transport
 ### Entropic Gromov-Wasserstein between Gaussian Distributions
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
-39th International Conference on Machine Learning (ICML 2022)  [[arXiv](https://arxiv.org/abs/2108.10961)] [[ICML](https://proceedings.mlr.press/v162/le22a.html)]
+Proceedings of the ICML, 2022.  [[arXiv](https://arxiv.org/abs/2108.10961)] [[ICML](https://proceedings.mlr.press/v162/le22a.html)]
 ### On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity
 *__Huy Nguyen\*__, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho*<br/>
-25th International Conference on Artificial Intelligence and Statistics (AISTATS 2022)  [[arXiv](https://arxiv.org/abs/2108.07992)] [[AISTATS](https://proceedings.mlr.press/v151/le22a.html)]
+In AISTATS, 2022.  [[arXiv](https://arxiv.org/abs/2108.07992)] [[AISTATS](https://proceedings.mlr.press/v151/le22a.html)]
 ### On Robust Optimal Transport: Computational Complexity and Barycenter Computation
 *__Huy Nguyen\*__, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho*<br/>
-35th Conference on Neural Information Processing Systems (NeurIPS 2021)  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html)]
+Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIPS](https://proceedings.neurips.cc/paper/2021/hash/b80ba73857eed2a36dc7640e2310055a-Abstract.html)]
 
 
 
 ## Recent News
+- **[Jan 2024]** Two papers [[1](https://arxiv.org/abs/2305.07572)] and [2] is accepted to AISTATS 2024.
+- **[Jan 2024]** Our paper "[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850)" is accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s)" is accepted to ICASSP 2024.
 - **[Oct 2023]** I received the NeurIPS 2023 Scholar Award. See you in New Orleans this December!
 - **[Oct 2023]** Our new paper "[A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf)" is out.
@@ -60,9 +65,7 @@ Under review
 - **[Jul 2023]** We will present the paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/pdf?id=u3JeFO8G8s)" at the Frontier4LCD workshop, ICML 2023.
 - **[May 2023]** Three new papers on the Mixture of Experts theory are out! See more at [[1]](https://arxiv.org/abs/2305.03288), [[2]](https://arxiv.org/abs/2305.07572) and [[3](https://huynm99.github.io/Deviated_MoE.pdf)].
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
-- **[Jan 2023]** Our paper "[Hierarchical Sliced Wasserstein Distance](https://openreview.net/forum?id=CUOaVn6mYEj)" is accepted to ICLR 2023.
-
 
 ## Professional Services
-Conference Review: ICML (2022), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
+Conference Review: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
 Workshop Review: Frontier4LCD (ICML 2023).
