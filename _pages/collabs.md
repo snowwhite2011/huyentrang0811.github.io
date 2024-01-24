@@ -31,7 +31,7 @@ redirect_from:
 
 ## Junior collaborators (in random order)
 
-[Pedram Akbarian](https://www.linkedin.com/in/pedram-akbarian-10695a100/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
+[Pedram Akbarian](https://pedakb.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
 [Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
