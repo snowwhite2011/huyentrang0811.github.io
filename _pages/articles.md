@@ -14,19 +14,19 @@ redirect_from:
 
 ## Preprints
 
-**[P.4]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Pedram Akbarian, Fanqi Yan, Nhat Ho
-
-**[P.3]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Under review*. <br/>
+**[P.1]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, TrungTin Nguyen, Nhat Ho
 
-**[P.2]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *Under review*. <br/>
+## Conference Publications
+
+**[C.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *In ICLR, 2024*. <br/>
+<b>Huy Nguyen</b>, Pedram Akbarian, Fanqi Yan, Nhat Ho
+
+**[C.9]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *In AISTATS, 2024*. <br/>
 <b>Huy Nguyen\*</b>, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho
 
-**[P.1]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *Under review*. <br/>
+**[C.8]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *In AISTATS, 2024*. <br/>
 <b>Huy Nguyen</b>, Khai Nguyen, Nhat Ho
-
-## Conference Publications
 
 **[C.7]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.03288.pdf). *Advances in NeurIPS, 2023* <span style="color:red"> **(Spotlight)** </span>. <br/>
 <b>Huy Nguyen</b>, TrungTin Nguyen, Nhat Ho
