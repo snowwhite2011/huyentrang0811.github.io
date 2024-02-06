@@ -26,7 +26,7 @@ Under review [[arXiv](https://arxiv.org/abs/2402.02952)]
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2401.13875)]
 ### Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion
-*Xing Han,__Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
+*Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2402.03226)]
 ### CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition
 *Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
