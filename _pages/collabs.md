@@ -12,9 +12,9 @@ redirect_from:
 
 ## Senior collaborators (in random order)
 
-[Alessandro Rinaldo](https://arinaldo.github.io/) - Professor, Department of Statistics and Data Sciences, University of Texas at Austin
-
 [Abbas Khalili](https://www.math.mcgill.ca/khalili/) - Professor, Department of Mathematics and Statistics, McGill University
+
+[Suchi Saria](https://suchisaria.jhu.edu/) - John C. Malone Associate Professor, Johns Hopkins University
 
 [Dinh Phung](http://dinhphung.ml/) - Professor, Department of Data Science and AI, Monash University
 
@@ -33,11 +33,15 @@ redirect_from:
 
 [Pedram Akbarian](https://pedakb.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
+[Xing Han](https://aaronhan223.github.io/) - Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University
+
+[Duy M. H. Nguyen](https://scholar.google.com/citations?user=_NIyeykAAAAJ&hl=en) - Phd Student, Machine Learning & Simulation Lab, University of Stuttgart
+
 [Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
 [Khai Nguyen](https://khainb.github.io/) - Ph.D Student, Department of Statistics and Data Science, University of Texas, Austin
 
-[TrungTin Nguyen](https://trung-tinnguyen.github.io/) - Postdoctoral Fellow at the Inria centre at the University Grenoble Alpes 
+[TrungTin Nguyen](https://trung-tinnguyen.github.io/) - Postdoctoral Fellow at the University of Queensland
 
 [Tongzheng Ren](https://www.cs.utexas.edu/~tzren/) - Ph.D Student, Department of Computer Science, University of Texas, Austin
 
