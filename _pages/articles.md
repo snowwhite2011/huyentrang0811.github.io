@@ -21,17 +21,17 @@ redirect_from:
 <b>Huy Nguyen</b>, Pedram Akbarian, Nhat Ho
 
 **[P.3]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
-Xing Han, <b>Huy Nguyen\*<b>, Carl Harris\*, Nhat Ho, Suchi Saria
+Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
 **[P.2]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
-Quang Pham, Giang Do, <b>Huy Nguyen<b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
+Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
 
 **[P.1]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, TrungTin Nguyen, Nhat Ho
 
 ## Conference Publications
 
-**[C.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *In ICLR, 2024*. <br/>
+**[C.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *Proceedings of the ICLR, 2024*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, Fanqi Yan, Nhat Ho
 
 **[C.9]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *In AISTATS, 2024*. <br/>
@@ -49,7 +49,7 @@ Dat Do\*, <b>Huy Nguyen\*</b>, Khai Nguyen, Nhat Ho
 **[C.5]** [Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s). *In ICASSP, 2024*. <br/>
 Dung Le\*, <b>Huy Nguyen\*</b>, Khai Nguyen\*, Trang Nguyen\*, Nhat Ho
 
-**[C.4]** [Hierarchical Sliced Wasserstein Distance](https://openreview.net/pdf?id=CUOaVn6mYEj). *In ICLR, 2023*. <br/>
+**[C.4]** [Hierarchical Sliced Wasserstein Distance](https://openreview.net/pdf?id=CUOaVn6mYEj). *Proceedings of the ICLR, 2023*. <br/>
 Khai Nguyen, Tongzheng Ren, <b>Huy Nguyen</b>, Litu Rout, Tan Nguyen, Nhat Ho
 
 **[C.3]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://proceedings.mlr.press/v162/le22a.html). *Proceedings of the ICML, 2022*. <br/>
