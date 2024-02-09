@@ -37,7 +37,7 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 **[C.9]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *In AISTATS, 2024*. <br/>
 <b>Huy Nguyen\*</b>, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho
 
-**[C.8]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.07572.pdf). *In AISTATS, 2024*. <br/>
+**[C.8]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/pdf/2402.05220.pdf). *In AISTATS, 2024*. <br/>
 <b>Huy Nguyen</b>, Khai Nguyen, Nhat Ho
 
 **[C.7]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/pdf/2305.03288.pdf). *Advances in NeurIPS, 2023* <span style="color:red"> **(Spotlight)** </span>. <br/>
