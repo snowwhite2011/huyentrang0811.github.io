@@ -50,7 +50,7 @@ Advances in NeurIPS, 2023. [[arXiv](https://arxiv.org/abs/2301.11808)] [[NeurIPS
 In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2305.07572)]
 ### On Parameter Estimation in Deviated Gaussian Mixture of Experts
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
-In AISTATS, 2024.
+In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2402.05220)]
 
 ## Selected Publications on Optimal Transport
 ### Entropic Gromov-Wasserstein between Gaussian Distributions
@@ -68,7 +68,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 ## Recent News
 - **[Feb 2024]** Two new papers on the applications of Mixture of Experts in Medical Images [[1](https://arxiv.org/abs/2402.03226)] and Large Language Models [[2](https://arxiv.org/abs/2402.02526)] are out!
 - **[Feb 2024]** Two new papers on the theory of Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)] and [[2](https://arxiv.org/abs/2401.13875)], are out! 
-- **[Jan 2024]** Two papers on Mixture of Experts, [[1](https://arxiv.org/abs/2305.07572)] and [2], are accepted to AISTATS 2024.
+- **[Jan 2024]** Two papers on Mixture of Experts, [[1](https://arxiv.org/abs/2305.07572)] and [[2](https://arxiv.org/abs/2402.05220)], are accepted to AISTATS 2024.
 - **[Jan 2024]** Our paper "[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850)" is accepted to ICLR 2024.
 - **[Dec 2023]** Our paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s)" is accepted to ICASSP 2024.
 - **[Oct 2023]** I received the NeurIPS 2023 Scholar Award. See you in New Orleans this December!
