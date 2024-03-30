@@ -25,7 +25,7 @@ Under review [[arXiv](https://arxiv.org/abs/2402.02952)]
 ### Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2401.13875)]
-### Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion
+### FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion
 *Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2402.03226)]
 ### CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition
@@ -66,6 +66,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 
 ## Recent News
+- **[Mar 2024]** I received the ICLR 2024 Travel Award. See you in Vienna, Austria this May!
 - **[Feb 2024]** Two new papers on the applications of Mixture of Experts in Medical Images [[1](https://arxiv.org/abs/2402.03226)] and Large Language Models [[2](https://arxiv.org/abs/2402.02526)] are out!
 - **[Feb 2024]** Two new papers on the theory of Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)] and [[2](https://arxiv.org/abs/2401.13875)], are out! 
 - **[Jan 2024]** Two papers on Mixture of Experts, [[1](https://arxiv.org/abs/2305.07572)] and [[2](https://arxiv.org/abs/2402.05220)], are accepted to AISTATS 2024.
@@ -80,5 +81,6 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-Conference Review: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
-Workshop Review: Frontier4LCD (ICML 2023).
+Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
+Journal Reviewer: Electronic Journal of Statistics
+Workshop Reviewer: Frontier4LCD (ICML 2023).
