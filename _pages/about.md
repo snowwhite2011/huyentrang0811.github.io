@@ -66,6 +66,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 
 ## Recent News
+- **[Apr 2024]** I was offered the AISTATS 2024 registration grant. See you in Valencia, Spain this May!
 - **[Mar 2024]** I received the ICLR 2024 Travel Award. See you in Vienna, Austria this May!
 - **[Feb 2024]** Two new papers on the applications of Mixture of Experts in Medical Images [[1](https://arxiv.org/abs/2402.03226)] and Large Language Models [[2](https://arxiv.org/abs/2402.02526)] are out!
 - **[Feb 2024]** Two new papers on the theory of Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)] and [[2](https://arxiv.org/abs/2401.13875)], are out! 
@@ -81,6 +82,6 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
-Journal Reviewer: Electronic Journal of Statistics
-Workshop Reviewer: Frontier4LCD (ICML 2023).
+- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
+- Journal Reviewer: Electronic Journal of Statistics
+- Workshop Reviewer: Frontier4LCD (ICML 2023).
