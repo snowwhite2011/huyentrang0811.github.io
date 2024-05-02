@@ -14,22 +14,22 @@ redirect_from:
 
 ## Preprints
 
-**[P.5]** [On Least Squares Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
-
-**[P.4]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Pedram Akbarian, Nhat Ho
-
-**[P.3]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
+**[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
 Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
-**[P.2]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
+**[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
 
-**[P.1]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Pedram Akbarian, TrungTin Nguyen, Nhat Ho
-
 ## Conference Publications
+
+**[C.13]** [On Least Squares Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
+<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
+
+**[C.12]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Proceedings of the ICML, 2024*. <br/>
+<b>Huy Nguyen</b>, Pedram Akbarian, Nhat Ho
+
+**[C.11]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Proceedings of the ICML, 2024*. <br/>
+<b>Huy Nguyen</b>, Pedram Akbarian, TrungTin Nguyen, Nhat Ho
 
 **[C.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *Proceedings of the ICLR, 2024*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, Fanqi Yan, Nhat Ho
