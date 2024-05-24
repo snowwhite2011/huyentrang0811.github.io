@@ -14,6 +14,18 @@ redirect_from:
 
 ## Preprints
 
+**[P.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts]
+](https://arxiv.org/pdf/2405.13997.pdf). *Under review*. <br/>
+<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
+
+**[P.4]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts]
+](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
+<b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
+
+**[P.3]** [Mixture of Experts Meets Prompt-Based Continual Learning]
+](https://arxiv.org/pdf/2405.14124.pdf). *Under review*. <br/>
+Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
+
 **[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
 Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
