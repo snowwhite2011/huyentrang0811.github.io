@@ -19,6 +19,15 @@ My current research focuses on theoretical foundations for Mixture-of-Experts mo
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
+### Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts
+*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2405.13997)]
+### Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts
+*__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2405.14131)]
+### Mixture of Experts Meets Prompt-Based Continual Learning
+*Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
+Under review [[arXiv](https://arxiv.org/abs/2405.14124)]
 ### FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion
 *Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 Under review [[arXiv](https://arxiv.org/abs/2402.03226)]
@@ -63,6 +72,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 
 ## Recent News
+- **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
 - **[May 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)], [[2](https://arxiv.org/abs/2401.13875)] and [[3](https://arxiv.org/abs/2310.14188)], are accepted to ICML 2024.
 - **[Apr 2024]** I was offered the AISTATS 2024 registration grant. See you in Valencia, Spain this May!
 - **[Mar 2024]** I received the ICLR 2024 Travel Award. See you in Vienna, Austria this May!
@@ -80,6 +90,6 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2023), AISTATS (2022-2024) and ICLR (2024).
+- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024) and ICLR (2024).
 - Journal Reviewer: Electronic Journal of Statistics
 - Workshop Reviewer: Frontier4LCD (ICML 2023).
