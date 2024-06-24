@@ -11,11 +11,11 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! My full name is Huy Minh Nguyen, and I am currently a second-year Ph.D student at the [Department of Statistics and Data Sciecnes, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). 
+Welcome to my homepage! My full name is Huy Minh Nguyen, and I am a second-year Ph.D student at the [Department of Statistics and Data Sciences, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). I am currently working as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
 
 Email: huynm@utexas.edu
 ## Research Interests 
-My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of density estimation and parameter estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models and Medical Images. Additionally, I am also interested in Optimal Transport theory.
+My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models, Continual Learning and Medical Images. Additionally, I am also interested in Optimal Transport theory.
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
@@ -36,7 +36,7 @@ Under review [[arXiv](https://arxiv.org/abs/2402.03226)]
 Under review [[arXiv](https://arxiv.org/abs/2402.02526)]
 
 ## Selected Publications on Mixture of Experts
-### On Least Squares Estimation in Softmax Gating Mixture of Experts
+### On Least Square Estimation in Softmax Gating Mixture of Experts
 *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2402.02952)]
 ### Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?
@@ -47,13 +47,13 @@ Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2401.13875)]
 Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span>. [[arXiv](https://arxiv.org/abs/2305.03288)] [[NeurIPS](https://openreview.net/pdf?id=cto6jIIbMZ)]
 ### Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
-Proceedings of the ICLR, 2024. [[arXiv](https://arxiv.org/abs/2309.13850)]
+Proceedings of the ICLR, 2024. [[arXiv](https://arxiv.org/abs/2309.13850)] [[ICLR](https://openreview.net/pdf?id=jvtmdK69KQ)]
 ### A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 Proceedings of the ICML, 2024. [[arXiv](https://arxiv.org/abs/2310.14188)]
 ### Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
-In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2305.07572)]
+In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2305.07572)] [[AISTATS](https://proceedings.mlr.press/v238/nguyen24b/nguyen24b.pdf)]
 ### On Parameter Estimation in Deviated Gaussian Mixture of Experts
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 In AISTATS, 2024. [[arXiv](https://arxiv.org/abs/2402.05220)]
@@ -72,6 +72,7 @@ Advances in NeurIPS, 2021.  [[arXiv](https://arxiv.org/abs/2102.06857)] [[NeurIP
 
 
 ## Recent News
+- **[May 2024]** I start working as a research intern at Microsoft AI.
 - **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
 - **[May 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)], [[2](https://arxiv.org/abs/2401.13875)] and [[3](https://arxiv.org/abs/2310.14188)], are accepted to ICML 2024.
 - **[Apr 2024]** I was offered the AISTATS 2024 registration grant. See you in Valencia, Spain this May!
