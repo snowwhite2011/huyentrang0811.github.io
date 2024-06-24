@@ -23,7 +23,7 @@ redirect_from:
 **[P.3]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Under review*. <br/>
 Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
-**[P.2]** [Fuse MoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
+**[P.2]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
 Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
 **[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
@@ -31,7 +31,7 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 
 ## Conference Publications
 
-**[C.13]** [On Least Squares Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
+**[C.13]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
 
 **[C.12]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Proceedings of the ICML, 2024*. <br/>
