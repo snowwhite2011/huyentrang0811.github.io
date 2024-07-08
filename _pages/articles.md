@@ -31,13 +31,13 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 
 ## Conference Publications
 
-**[1]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
+**[C.13]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
 
-**[2]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Proceedings of the ICML, 2024*. <br/>
+**[C.12]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, Nhat Ho
 
-**[3]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Proceedings of the ICML, 2024*. <br/>
+**[C.11]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, TrungTin Nguyen, Nhat Ho
 
 **[C.10]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf). *Proceedings of the ICLR, 2024*. <br/>
