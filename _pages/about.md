@@ -19,53 +19,53 @@ My current research focuses on theoretical foundations for Mixture-of-Experts mo
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
-### [[Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997)]
+### [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997)
 *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Under review 
-### [[Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)]
+### [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 Under review 
-### [[Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)]
+### [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
 *Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 Under review 
-### [[FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226)]
+### [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226)
 *Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 Under review 
-### [[CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526)]
+### [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526)
 *Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
 Under review 
 
 ## Selected Publications on Mixture of Experts
-### [[On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952)]
+### [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952)
 *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. 
-### [[Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875)]
+### [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875)
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 Proceedings of the ICML, 2024. 
-### [[Demystifying Softmax Gating Function in Gaussian Mixture of Experts ](https://arxiv.org/abs/2305.03288)]
+### [Demystifying Softmax Gating Function in Gaussian Mixture of Experts ](https://arxiv.org/abs/2305.03288)
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
 Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span>. 
-### [[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850)]
+### [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850)
 *__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
 Proceedings of the ICLR, 2024.  
-### [[A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188)]
+### [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188)
 *__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
 Proceedings of the ICML, 2024. 
-### [[Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572)]
+### [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572)
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 In AISTATS, 2024.  
-### [[On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220)]
+### [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220)
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 In AISTATS, 2024. 
 
 ## Selected Publications on Optimal Transport
-### [[Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961)]
+### [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961)
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
 Proceedings of the ICML, 2022.   
-### [[On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://arxiv.org/abs/2108.07992)]
+### [On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://arxiv.org/abs/2108.07992)
 *__Huy Nguyen\*__, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho*<br/>
 In AISTATS, 2022.   
-### [[On Robust Optimal Transport: Computational Complexity and Barycenter Computation](https://arxiv.org/abs/2102.06857)] 
+### [On Robust Optimal Transport: Computational Complexity and Barycenter Computation](https://arxiv.org/abs/2102.06857)
 *__Huy Nguyen\*__, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho*<br/>
 Advances in NeurIPS, 2021.  
 
