@@ -14,22 +14,22 @@ redirect_from:
 
 ## Preprints
 
-**[P.5]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Under review*. <br/>
-<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
-
-**[P.4]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
+**[P.2]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
-
-**[P.3]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Under review*. <br/>
-Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
-
-**[P.2]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Under review*. <br/>
-Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
 
 **[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
 
 ## Conference Publications
+
+**[C.16]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Advances in NeurIPS, 2024*. <br/>
+<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
+
+**[C.15]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Advances in NeurIPS, 2024*. <br/>
+Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
+
+**[C.14]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Advances in NeurIPS, 2024*. <br/>
+Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
 **[C.13]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
