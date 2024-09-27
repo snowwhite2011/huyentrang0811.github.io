@@ -12,7 +12,7 @@ redirect_from:
 
 ## Senior collaborators (in random order)
 
-[Abbas Khalili](https://www.math.mcgill.ca/khalili/) - Professor, Department of Mathematics and Statistics, McGill University
+[Abbas Khalili](https://sites.google.com/view/abbaskhalili/home) - Professor, Department of Mathematics and Statistics, McGill University
 
 [Suchi Saria](https://suchisaria.jhu.edu/) - John C. Malone Associate Professor, Johns Hopkins University
 
