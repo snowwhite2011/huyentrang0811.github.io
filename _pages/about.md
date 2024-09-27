@@ -15,27 +15,21 @@ Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D student at the [Depart
 
 Email: huynm@utexas.edu
 ## Research Interests 
-My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions which help improve the performance of Mixture-of-Experts applications, including Large Language Models, Continual Learning and Medical Images. Additionally, I am also interested in Optimal Transport theory.
+My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to propose novel gating functions and design expert networks which help improve the performance of Mixture-of-Experts applications, including Large Language Models, Multimodal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
 
 <span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
 ## Selected Preprints
-### [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997)
-*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
-Under review 
 ### [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
-Under review 
-### [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
-*Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
-Under review 
-### [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226)
-*Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
 Under review 
 ### [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526)
 *Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
 Under review 
 
-## Selected Publications on Mixture of Experts
+## Selected Publications on the Foundations of Mixture of Experts
+### [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997)
+*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
+Advances in NeurIPS, 2024.
 ### [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952)
 *__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
 Proceedings of the ICML, 2024. 
@@ -58,6 +52,14 @@ In AISTATS, 2024.
 *__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
 In AISTATS, 2024. 
 
+## Selected Publications on the Applications of Mixture of Experts
+### [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226)
+*Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
+Advances in NeurIPS, 2024. 
+### [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124)
+*Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
+Advances in NeurIPS, 2024.
+
 ## Selected Publications on Optimal Transport
 ### [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961)
 *__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
@@ -70,6 +72,7 @@ In AISTATS, 2022.
 Advances in NeurIPS, 2021.  
 
 ## Recent News
+- **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024.
 - **[May 2024]** I start my research internship at Microsoft AI where I will work on the applications of Mixture of Experts in Large Language Models.
 - **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
 - **[May 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)], [[2](https://arxiv.org/abs/2401.13875)] and [[3](https://arxiv.org/abs/2310.14188)], are accepted to ICML 2024.
@@ -89,6 +92,6 @@ Advances in NeurIPS, 2021.
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2024), ICLR (2024-2025) and AAAI (2025).
+- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025) and AAAI (2025).
 - Journal Reviewer: Electronic Journal of Statistics.
 - Workshop Reviewer: Frontier4LCD (ICML 2023).
