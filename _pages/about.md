@@ -17,8 +17,14 @@ Email: huynm@utexas.edu
 ## Research Interests 
 My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to propose novel gating functions and design expert networks which help improve the performance of Mixture-of-Experts applications, including Large Language Models, Multimodal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
 
-<span style="color:red"> **(\*) denotes equal contribution.** </span> <br/>
+<span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 ## Selected Preprints
+### [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935)
+*__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
+Under review
+### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
+*Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
+Under review
 ### [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 Under review 
@@ -28,10 +34,10 @@ Under review
 
 ## Selected Publications on the Foundations of Mixture of Experts
 ### [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997)
-*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
+*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 Advances in NeurIPS, 2024.
 ### [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952)
-*__Huy Nguyen__, Nhat Ho, Alessandro Rinaldo*<br/>
+*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 Proceedings of the ICML, 2024. 
 ### [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875)
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
