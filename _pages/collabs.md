@@ -35,21 +35,23 @@ redirect_from:
 
 [Xing Han](https://aaronhan223.github.io/) - Postdoctoral Fellow at Department of Computer Science of Johns Hopkins University
 
-[Duy M. H. Nguyen](https://scholar.google.com/citations?user=_NIyeykAAAAJ&hl=en) - Phd Student, Machine Learning & Simulation Lab, University of Stuttgart
-
-[Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
+[Fanqi Yan](https://franziskayan.github.io/) - Ph.D Student, Department of Computer Science, University of Texas, Austin
 
 [Khai Nguyen](https://khainb.github.io/) - Ph.D Student, Department of Statistics and Data Science, University of Texas, Austin
 
 [TrungTin Nguyen](https://trung-tinnguyen.github.io/) - Postdoctoral Fellow at the University of Queensland
 
-[Tongzheng Ren](https://www.cs.utexas.edu/~tzren/) - Ph.D Student, Department of Computer Science, University of Texas, Austin
+[Khang Le](https://lntk.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
-Fanqi Yan - Ph.D Student, Department of Computer Science, University of Texas, Austin
+[Dat Do](https://dodat619.github.io/) - Phd Student, Department of Statistics, University of Michigan, Ann Arbor
+
+[Tongzheng Ren](https://www.cs.utexas.edu/~tzren/) - Ph.D Student, Department of Computer Science, University of Texas, Austin --> Current: Quantitative Researcher, Citadel Securities
 
 [Litu Rout](https://liturout.github.io/) - Ph.D Student, Department of Electrical and Computer Engineering, University of Texas, Austin
 
-[Dat Do](https://dodat619.github.io/) - Phd Student, Department of Statistics, University of Michigan, Ann Arbor
+[Duy M. H. Nguyen](https://scholar.google.com/citations?user=_NIyeykAAAAJ&hl=en) - Phd Student, Machine Learning & Simulation Lab, University of Stuttgart
+
+
 
 
 
