@@ -10,9 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-(*) denotes equal contribution
+(*) denotes equal contribution, (**) denotes equal advising
 
 ## Preprints
+
+**[P.4]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935)
+<b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
+
+**[P.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). *Under review*. <br/>
+Minh Le\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Quyen Tran, Trung Le, Nhat Ho
 
 **[P.2]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
@@ -23,16 +29,16 @@ Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sar
 ## Conference Publications
 
 **[C.16]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/pdf/2405.13997.pdf). *Advances in NeurIPS, 2024*. <br/>
-<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
+<b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[C.15]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/pdf/2402.03226.pdf). *Advances in NeurIPS, 2024*. <br/>
-Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho, Suchi Saria
+Xing Han, <b>Huy Nguyen\*</b>, Carl Harris\*, Nhat Ho\*\*, Suchi Saria\*\*
 
 **[C.14]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/pdf/2405.14124.pdf). *Advances in NeurIPS, 2024*. <br/>
 Minh Le, An Nguyen\*, <b>Huy Nguyen\*</b>, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho
 
 **[C.13]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2402.02952.pdf). *Proceedings of the ICML, 2024*. <br/>
-<b>Huy Nguyen</b>, Nhat Ho, Alessandro Rinaldo
+<b>Huy Nguyen</b>, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[C.12]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/pdf/2401.13875.pdf). *Proceedings of the ICML, 2024*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian, Nhat Ho
