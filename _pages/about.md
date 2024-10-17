@@ -15,9 +15,10 @@ Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D student at the [Depart
 
 Email: huynm@utexas.edu
 ## Research Interests 
-My current research focuses on theoretical foundations for Mixture-of-Experts models. In particular, I try to comprehend the effects of various gating functions (namely softmax gate, top-K sparse softmax gate, dense-to-sparse gate, sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to propose novel gating functions and design expert networks which help improve the performance of Mixture-of-Experts applications, including Large Language Models, Multimodal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
+My current research focuses on theoretical foundations for the Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
+
 ## Selected Preprints
 ### [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935)
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
@@ -28,6 +29,12 @@ Under review
 ### [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 Under review 
+### [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222)
+*Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
+Under review
+### [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258)
+*Pedram Akbarian\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
+Under review
 ### [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526)
 *Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
 Under review 
@@ -78,6 +85,7 @@ In AISTATS, 2022.
 Advances in NeurIPS, 2021.  
 
 ## Recent News
+- **[Oct 2024]** Four new papers on Mixture of Experts are out, [[1](https://arxiv.org/abs/2410.02935)], [[2](https://arxiv.org/abs/2410.02200)], [[3](https://arxiv.org/abs/2410.11222)] and [[4](https://arxiv.org/abs/2410.12258)].
 - **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024.
 - **[May 2024]** I start my research internship at Microsoft AI where I will work on the applications of Mixture of Experts in Large Language Models.
 - **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
