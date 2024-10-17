@@ -14,14 +14,20 @@ redirect_from:
 
 ## Preprints
 
-**[P.4]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935) *Under review*. <br/>
+**[P.6]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
 
-**[P.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). *Under review*. <br/>
+**[P.5]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/pdf/2410.02200). *Under review*. <br/>
 Minh Le\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Quyen Tran, Trung Le, Nhat Ho
 
-**[P.2]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
+**[P.4]** [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/pdf/2405.14131.pdf). *Under review*. <br/>
 <b>Huy Nguyen</b>, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho
+
+**[P.3]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/pdf/2410.11222.pdf). *Under review*. <br/>
+Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
+
+**[P.2]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/pdf/2410.12258.pdf). *Under review*. <br/>
+Fanqi Yan\*, <b>Huy Nguyen\8</b>, Dung Le\*, Pedram Akbarian, Nhat Ho
 
 **[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
