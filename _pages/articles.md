@@ -27,7 +27,7 @@ Minh Le\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Quyen Tran, Trung Le, Nhat Ho
 Pedram Akbarian\*, <b>Huy Nguyen\*</b>, Xing Han\*, Nhat Ho
 
 **[P.2]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/pdf/2410.12258.pdf). *Under review*. <br/>
-Fanqi Yan\*, <b>Huy Nguyen\8</b>, Dung Le\*, Pedram Akbarian, Nhat Ho
+Fanqi Yan\*, <b>Huy Nguyen\*</b>, Dung Le\*, Pedram Akbarian, Nhat Ho
 
 **[P.1]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/pdf/2402.02526.pdf). *Under review*. <br/>
 Quang Pham, Giang Do, <b>Huy Nguyen</b>, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho
