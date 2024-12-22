@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D student at the [Department of Statistics and Data Sciences, University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I was a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
+Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
 
 Email: huynm@utexas.edu
 ## Research Interests 
@@ -20,13 +20,13 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
 ## Selected Preprints
-### [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935)
+[On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
-Under review
+
 ### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
 *Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
 Under review
-### [Statistical Advantages of Perturbing Cosine Router in Sparse Mixture of Experts](https://arxiv.org/abs/2405.14131)
+### [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131)
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 Under review 
 ### [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222)
@@ -85,8 +85,9 @@ In AISTATS, 2022.
 Advances in NeurIPS, 2021.  
 
 ## Recent News
+- **[Dec 2024]** I was recognized as a top reviewer at NeurIPS 2024. I was also promoted to PhD candidate at UT Austin.
 - **[Oct 2024]** Four new papers on Mixture of Experts are out, [[1](https://arxiv.org/abs/2410.02935)], [[2](https://arxiv.org/abs/2410.02200)], [[3](https://arxiv.org/abs/2410.11222)] and [[4](https://arxiv.org/abs/2410.12258)].
-- **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024.
+- **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024. See you in Vancouver, Canada this December!
 - **[May 2024]** I start my research internship at Microsoft AI where I will work on the applications of Mixture of Experts in Large Language Models.
 - **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
 - **[May 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)], [[2](https://arxiv.org/abs/2401.13875)] and [[3](https://arxiv.org/abs/2310.14188)], are accepted to ICML 2024.
@@ -106,6 +107,6 @@ Advances in NeurIPS, 2021.
 - **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
 
 ## Professional Services
-- Conference Reviewer: ICML (2022,2024), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025) and AAAI (2025).
+- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025) and AAAI (2025).
 - Journal Reviewer: Electronic Journal of Statistics.
 - Workshop Reviewer: Frontier4LCD (ICML 2023).
