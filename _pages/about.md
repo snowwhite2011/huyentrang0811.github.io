@@ -20,7 +20,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
 ## Selected Preprints
-[On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review< br/>
+[On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
 *__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
 
 ### [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200)
