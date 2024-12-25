@@ -20,17 +20,17 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
 ## Selected Publications on the Theory of Mixture of Experts
-[Demystifying Softmax Gating Function in Gaussian Mixture of Experts ](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
+[Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
 *__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
-
-[Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
-*__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
 [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
 [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952). Proceedings of the ICML, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
+[Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
+*__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
 [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Under review <br/>
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
