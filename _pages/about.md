@@ -32,7 +32,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
 *__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
 
-[Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Under review <br/>
+[Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
 *__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
 
 [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
@@ -50,7 +50,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
 *__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
 
-[Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). Under review <br/>
+[Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
 *Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
 
 [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
@@ -64,7 +64,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124). Advances in NeurIPS, 2024 <br/>
 *Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
 
-[Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). Under review <br/>
+[Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). Proceedings of the ICLR, 2025 <br/>
 *Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
 
 [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
@@ -86,6 +86,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
  
 
 ## Recent News
+- **[Jan 2025]** Three papers are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
 - **[Dec 2024]** I was recognized as a top reviewer at NeurIPS 2024. I was also promoted to PhD candidate at UT Austin.
 - **[Oct 2024]** Four new papers on Mixture of Experts are out, [[1](https://arxiv.org/abs/2410.02935)], [[2](https://arxiv.org/abs/2410.02200)], [[3](https://arxiv.org/abs/2410.11222)] and [[4](https://arxiv.org/abs/2410.12258)].
 - **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024. See you in Vancouver, Canada this December!
@@ -109,5 +110,4 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 
 ## Professional Services
 - Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
-- Journal Reviewer: Electronic Journal of Statistics.
-- Workshop Reviewer: Frontier4LCD (ICML 2023).
+- Journal Reviewer: Electronic Journal of Statistics, Transactions on Machine Learning Research.
