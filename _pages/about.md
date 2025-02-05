@@ -26,6 +26,9 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
+[Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
+*__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
+
 [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952). Proceedings of the ICML, 2024 <br/>
 *__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
 
@@ -70,6 +73,14 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
 *Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
 
+[Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). Under review <br/>
+*Minh Le\*, Anh Nguyen\*, __Huy Nguyen__, Chau Nguyen, Nhat Ho*<br/>
+
+[RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2410.02200). Under review <br/>
+*Tuan Truong\*, Chau Nguyen\*, __Huy Nguyen\*__, Minh Le, Trung Le, Nhat Ho*<br/>
+
+[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2410.02200). Under review <br/>
+*Nghiem T. Diep\*, __Huy Nguyen\*__, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
 [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
