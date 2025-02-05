@@ -19,13 +19,13 @@ redirect_from:
 <b>Huy Nguyen\*</b>, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\*\*
 
 **[P.6]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2410.02200). *Under review* <br/>
-Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*<b>, Minh Le, Trung Le, Nhat Ho
+Tuan Truong\*, Chau Nguyen\*, <b>Huy Nguyen\*</b>, Minh Le, Trung Le, Nhat Ho
 
 **[P.5]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). *Under review* <br/>
-Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen<b>, Chau Nguyen, Nhat Ho
+Minh Le\*, Anh Nguyen\*, <b>Huy Nguyen</b>, Chau Nguyen, Nhat Ho
 
 **[P.4]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2410.02200). *Under review* <br/>
-Nghiem T. Diep\*, <b>Huy Nguyen\*<b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
+Nghiem T. Diep\*, <b>Huy Nguyen\*</b>, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho
 
 **[P.3]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/pdf/2410.02935) *Under review*. <br/>
 <b>Huy Nguyen\*</b>, Xing Han\*, Carl William Harris, Suchi Saria\*\*, Nhat Ho\*\*
