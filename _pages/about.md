@@ -79,7 +79,7 @@ My current research focuses on theoretical foundations for the Mixture-of-Expert
 [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2410.02200). Under review <br/>
 *Tuan Truong\*, Chau Nguyen\*, __Huy Nguyen\*__, Minh Le, Trung Le, Nhat Ho*<br/>
 
-[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2410.02200). Under review <br/>
+[On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). Under review <br/>
 *Nghiem T. Diep\*, __Huy Nguyen\*__, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
 
 ## Selected Publications on Optimal Transport
