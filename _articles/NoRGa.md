@@ -8,6 +8,6 @@ link: ....
 ---
 
 [comment]: <> (<a href="https://proceedings.mlr.press/v162/le22a.html">Arxiv</a>.)
-Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen, <b>Trang Pham\*</b>, Linh Van Ngo, Nhat Ho
+Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, <b>Trang Pham\*</b>, Linh Van Ngo, Nhat Ho
 
 Abstract: ....
