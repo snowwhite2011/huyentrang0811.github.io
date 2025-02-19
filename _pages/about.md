@@ -11,114 +11,31 @@ redirect_from:
 {% include base_path %}
 
    
-Welcome to my homepage! I'm Huy Nguyen, a third-year Ph.D candidate at the [Department of Statistics and Data Sciences, The University of Texas at Austin](https://stat.utexas.edu/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Alessandro Rinaldo](https://arinaldo.github.io/). Before that, I graduated from [Ho Chi Minh City University of Science](https://en.hcmus.edu.vn/) with a Bachelor's degree in Mathematics (Summa Cum Laude). In Summer 2024, I worked as a research intern at [Microsoft AI](https://www.microsoft.com/en-us/ai). 
+Welcome to my homepage! I'm Vu Huyen Trang Pham (Huyen Trang). I am a research resident at [VinAI Research](https://www.vinai.io/) where I am fortunate to be advised by Professor [Nhat Ho](https://nhatptnk8912.github.io/) and Professor [Tan Nguyen](https://tanmnguyen89.github.io/). Before that, I graduated from [Hanoi University of Science and Technology](https://hust.edu.vn/) with a Bachelor's degree in Data Science and Artificial Intelligence. During my time at the university, I also worked as a research student at [Data Science Lab](http://ds.soict.hust.edu.vn/) where I had the opportunity to conduct research under the guidance of Professor [Khoat Than](https://users.soict.hust.edu.vn/khoattq/) and Dr. [Linh Ngo](https://users.soict.hust.edu.vn/linhnv/)
 
-Email: huynm@utexas.edu
+Email: pvhtrang0811@gmail.com
 ## Research Interests 
-My current research focuses on theoretical foundations for the Mixture-of-Experts models. In particular, I investigate the effects of various gating functions (namely the softmax gate, the Top-K sparse softmax gate, the dense-to-sparse gate, the sigmoid gate, etc) on the convergence of expert estimation under the Mixture-of-Experts models. Based on insights from these results, I aim to design novel gating functions and characterize expert networks which help improve the efficiency and scalability of the Mixture-of-Experts applications, including Large Language Models, Multi-modal Learning and Parameter-efficient Fine-Tuning. Additionally, I am also interested in Optimal Transport theory.
+My recent research focuses on advancing the theoretical foundations and practical applications of Mixture of Experts (MoE), Continual Learning, and Optimal Transport. In MoE, I explore novel gating mechanisms and statistical properties to improve efficiency and scalability, particularly in large-scale AI models. My work in Continual Learning addresses robustness in rehearsal-based methods, ensuring adaptive learning while preserving past knowledge. Additionally, I develop more efficient Optimal Transport techniques, such as Tree-Sliced Wasserstein distance, to enhance computational performance while preserving topological structures. Through these efforts, I aim to bridge theoretical insights with real-world AI advancements.
 
 <span style="color:red"> **(\*) denotes equal contribution, (\**) denotes equal advising.** </span> <br/>
 
-## Selected Publications on the Theory of Mixture of Experts
-**[T.1]** [Demystifying Softmax Gating Function in Gaussian Mixture of Experts](https://arxiv.org/abs/2305.03288). Advances in NeurIPS, 2023  <span style="color:red"> **(Spotlight)** </span> <br/>
-*__Huy Nguyen__, TrungTin Nguyen, Nhat Ho*<br/>
+## Publications
+**[P.1]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124). Advances in NeurIPS, 2024 <br/>
+*Minh Le, An Nguyen\*, Huy Nguyen\*, Trang Nguyen\*, __Trang Pham\*__, Linh Van Ngo, Nhat Ho*<br/>
+**[P.2]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). International Conference on Learning Representations (ICLR), 2025 <br/>
+*Huy Nguyen, Pedram Akbarian\*, __Trang Pham\*__, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
+**[P.3]** [Distance-Based Tree-Sliced Wasserstein Distance](https://openreview.net/forum?id=OiQttMHwce). International Conference on Learning Representations (ICLR), 2025 <br/>
+*Hoang V. Tran\*, Khoi N.M. Nguyen\*, __Trang Pham__, Thanh T. Chu\*, Tam Le\**, Tan Nguyen \** *<br/>
+**[P.4]** [Spherical Tree-Sliced Wasserstein Distance](https://openreview.net/forum?id=OiQttMHwce). International Conference on Learning Representations (ICLR), 2025 <br/>
+*Hoang V. Tran\*, Thanh T. Chu\*, Khoi N.M. Nguyen, __Trang Pham__, Tam Le\**, Tan Nguyen\** *<br/>
 
-**[T.2]** [Sigmoid Gating is More Sample Efficient than Softmax Gating in Mixture of Experts](https://arxiv.org/abs/2405.13997). Advances in NeurIPS, 2024 <br/>
-*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
-
-**[T.3]** [Sigmoid Self-Attention is Better than Softmax Self-Attention: A Mixture-of-Experts Perspective](https://www.arxiv.org/abs/2502.00281). Under review <br/>
-*__Huy Nguyen\*__, Fanqi Yan\*, Pedram Akbarian, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
-
-**[T.4]** [On Least Square Estimation in Softmax Gating Mixture of Experts](https://arxiv.org/abs/2402.02952). Proceedings of the ICML, 2024 <br/>
-*__Huy Nguyen__, Nhat Ho\*\*, Alessandro Rinaldo\** *<br/>
-
-**[T.5]** [Is Temperature Sample Efficient for Softmax Gaussian Mixture of Experts?](https://arxiv.org/abs/2401.13875). Proceedings of the ICML, 2024 <br/> 
-*__Huy Nguyen__, Pedram Akbarian, Nhat Ho*<br/>
-
-**[T.6]** [Statistical Advantages of Perturbing Cosine Router in Mixture of Experts](https://arxiv.org/abs/2405.14131). Proceedings of the ICLR, 2025 <br/>
-*__Huy Nguyen__, Pedram Akbarian\*, Trang Pham\*, Trang Nguyen\*, Shujian Zhang, Nhat Ho*<br/>
-
-**[T.7]** [Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850). Proceedings of the ICLR, 2024 <br/>
-*__Huy Nguyen__, Pedram Akbarian, Fanqi Yan, Nhat Ho*<br/>
-
-**[T.8]** [On Expert Estimation in Hierarchical Mixture of Experts: Beyond Softmax Gating Functions](https://arxiv.org/abs/2410.02935). Under review <br/>
-*__Huy Nguyen\*__, Xing Han\*, Carl William Harris, Suchia Saria\*\*, Nhat Ho\** *<br/>
-
-**[T.9]** [Quadratic Gating Functions in Mixture of Experts: A Statistical Insight](https://arxiv.org/abs/2410.11222). Under review <br/>
-*Pedram Akbarian\*, __Huy Nguyen\*__,  Xing Han\*, Nhat Ho*<br/>
-
-**[T.10]** [A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/abs/2310.14188). Proceedings of the ICML, 2024 <br/>
-*__Huy Nguyen__, Pedram Akbarian, TrungTin Nguyen, Nhat Ho*<br/>
-
-**[T.11]** [Towards Convergence Rates for Parameter Estimation in Gaussian-gated Mixture of Experts](https://arxiv.org/abs/2305.07572). In AISTATS, 2024 <br/>
-*__Huy Nguyen\*__, TrungTin Nguyen\*, Khai Nguyen, Nhat Ho*<br/>
-
-**[T.12]** [Understanding Expert Structures on Minimax Parameter Estimation in Contaminated Mixture of Experts](https://arxiv.org/abs/2410.12258). In AISTATS, 2025 <br/>
-*Fanqi Yan\*, __Huy Nguyen\*__, Dung Le\*, Pedram Akbarian, Nhat Ho*<br/>
-
-**[T.13]** [On Parameter Estimation in Deviated Gaussian Mixture of Experts](https://arxiv.org/abs/2402.05220). In AISTATS, 2024 <br/>
-*__Huy Nguyen__, Khai Nguyen, Nhat Ho*<br/>
-
-
-## Selected Publications on the Applications of Mixture of Experts
-**[A.1]** [FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion](https://arxiv.org/abs/2402.03226). Advances in NeurIPS, 2024 <br/>
-*Xing Han, __Huy Nguyen\*__, Carl Harris\*, Nhat Ho, Suchi Saria*<br/>
-
-**[A.2]** [Mixture of Experts Meets Prompt-Based Continual Learning](https://arxiv.org/abs/2405.14124). Advances in NeurIPS, 2024 <br/>
-*Minh Le, An Nguyen\*, __Huy Nguyen\*__, Trang Nguyen\*, Trang Pham\*, Linh Van Ngo, Nhat Ho*<br/>
-
-**[A.3]** [Revisiting Prefix-tuning: Statistical Benefits of Reparameterization among Prompts](https://arxiv.org/abs/2410.02200). Proceedings of the ICLR, 2025 <br/>
-*Minh Le\*, Chau Nguyen\*, __Huy Nguyen\*__, Quyen Tran, Trung Le, Nhat Ho*<br/>
-
-**[A.4]** [CompeteSMoE - Effective Training of Sparse Mixture of Experts via Competition](https://arxiv.org/abs/2402.02526). Under review <br/>
-*Quang Pham, Giang Do, __Huy Nguyen__, TrungTin Nguyen, Chenghao Liu, Mina Sartipi, Binh T. Nguyen, Savitha Ramasamy, Xiaoli Li, Steven Hoi, Nhat Ho*<br/>
-
-**[A.5]** [Adaptive Prompt: Unlocking the Power of Visual Prompt Tuning](https://arxiv.org/abs/2501.18936). Under review <br/>
-*Minh Le\*, Anh Nguyen\*, __Huy Nguyen__, Chau Nguyen, Nhat Ho*<br/>
-
-**[A.6]** [RepLoRA: Reparameterizing Low-rank Adaptation via the Perspective of Mixture of Experts](https://arxiv.org/abs/2502.03044). Under review <br/>
-*Tuan Truong\*, Chau Nguyen\*, __Huy Nguyen\*__, Minh Le, Trung Le, Nhat Ho*<br/>
-
-**[A.7]** [On Zero-Initialized Attention: Optimal Prompt and Gating Factor Estimation](https://arxiv.org/abs/2502.03029). Under review <br/>
-*Nghiem T. Diep\*, __Huy Nguyen\*__, Chau Nguyen\*, Minh Le, Duy M. H. Nguyen, Daniel Sonntag, Mathias Niepert, Nhat Ho*<br/>
-
-## Selected Publications on Optimal Transport
-**[O.1]** [Entropic Gromov-Wasserstein between Gaussian Distributions](https://arxiv.org/abs/2108.10961). Proceedings of the ICML, 2022 <br/>
-*__Huy Nguyen\*__, Khang Le\*, Dung Le\*, Dat Do, Tung Pham, Nhat Ho*<br/>
-
-**[O.2]** [On Multimarginal Partial Optimal Transport: Equivalent Forms and Computational Complexity](https://arxiv.org/abs/2108.07992). In AISTATS, 2022 <br/>
-*__Huy Nguyen\*__, Khang Le\*, Khai Nguyen, Tung Pham, Nhat Ho*<br/>
-
-**[O.3]** [On Robust Optimal Transport: Computational Complexity and Barycenter Computation](https://arxiv.org/abs/2102.06857). Advances in NeurIPS, 2021 <br/>
-*__Huy Nguyen\*__, Khang Le\*, Quang Minh Nguyen, Tung Pham, Hung Bui, Nhat Ho*<br/>
-
-**[O.4]** [Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10447733). IEEE ICASSP, 2024 <br/>
-*__Huy Nguyen\*__, Dung Le\*, Khai Nguyen\*, Trang Nguyen\*, Nhat Ho*<br/>
- 
-
-## Recent News
-- **[Jan 2025]** Three papers on Mixture of Experts are accepted to ICLR 2025 ([[1](https://arxiv.org/abs/2405.14131)], [[2](https://arxiv.org/abs/2410.02200)]) and AISTATS 2025 ([[3](https://arxiv.org/abs/2410.12258)]).
-- **[Dec 2024]** I was recognized as a top reviewer at NeurIPS 2024. I was also promoted to PhD candidate at UT Austin.
-- **[Oct 2024]** Four new papers on Mixture of Experts are out, [[1](https://arxiv.org/abs/2410.02935)], [[2](https://arxiv.org/abs/2410.02200)], [[3](https://arxiv.org/abs/2410.11222)] and [[4](https://arxiv.org/abs/2410.12258)].
-- **[Sep 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2402.03226)] and [[3](https://arxiv.org/abs/2405.14124)], are accepted to NeurIPS 2024. See you in Vancouver, Canada this December!
-- **[May 2024]** I start my research internship at Microsoft AI where I will work on the applications of Mixture of Experts in Large Language Models.
-- **[May 2024]** Three new papers on Mixture of Experts [[1](https://arxiv.org/abs/2405.13997)], [[2](https://arxiv.org/abs/2405.14131)] and [[3](https://arxiv.org/abs/2405.14124)] are out!
-- **[May 2024]** Three papers on Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)], [[2](https://arxiv.org/abs/2401.13875)] and [[3](https://arxiv.org/abs/2310.14188)], are accepted to ICML 2024.
-- **[Apr 2024]** I was offered the AISTATS 2024 registration grant. See you in Valencia, Spain this May!
-- **[Mar 2024]** I received the ICLR 2024 Travel Award. See you in Vienna, Austria this May!
-- **[Feb 2024]** Two new papers on the applications of Mixture of Experts in Medical Images [[1](https://arxiv.org/abs/2402.03226)] and Large Language Models [[2](https://arxiv.org/abs/2402.02526)] are out!
-- **[Feb 2024]** Two new papers on the theory of Mixture of Experts, [[1](https://arxiv.org/abs/2402.02952)] and [[2](https://arxiv.org/abs/2401.13875)], are out! 
-- **[Jan 2024]** Two papers on Mixture of Experts, [[1](https://arxiv.org/abs/2305.07572)] and [[2](https://arxiv.org/abs/2402.05220)], are accepted to AISTATS 2024.
-- **[Jan 2024]** Our paper "[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/abs/2309.13850)" is accepted to ICLR 2024.
-- **[Dec 2023]** Our paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/forum?id=u3JeFO8G8s)" is accepted to ICASSP 2024.
-- **[Oct 2023]** I received the NeurIPS 2023 Scholar Award. See you in New Orleans this December!
-- **[Oct 2023]** Our new paper "[A General Theory for Softmax Gating Multinomial Logistic Mixture of Experts](https://arxiv.org/pdf/2310.14188.pdf)" is out.
-- **[Sep 2023]** Our new paper "[Statistical Perspective of Top-K Sparse Softmax Gating Mixture of Experts](https://arxiv.org/pdf/2309.13850.pdf)" is out.
-- **[Sep 2023]** We have two papers accepted to NeurIPS 2023, [[1](https://arxiv.org/pdf/2305.03288.pdf)] as <span style="color:red"> **spotlight** </span> and [[2](https://arxiv.org/pdf/2301.11808.pdf)] as poster.
-- **[Jul 2023]** We will present the paper "[Fast Approximation of the Generalized Sliced-Wasserstein Distance](https://openreview.net/pdf?id=u3JeFO8G8s)" at the Frontier4LCD workshop, ICML 2023.
-- **[May 2023]** Three new papers on the Mixture of Experts theory are out! See more at [[1]](https://arxiv.org/abs/2305.03288), [[2]](https://arxiv.org/abs/2305.07572) and [[3](https://huynm99.github.io/Deviated_MoE.pdf)].
-- **[Feb 2023]** Our new paper on Mixture Models theory "[Minimax Optimal Rate for Parameter Estimation in Multivariate Deviated Models](https://arxiv.org/abs/2301.11808)" is out.
+## Preprints
+**[A.1]** [Tree-Sliced Wasserstein Distance on a System of Lines](https://arxiv.org/abs/2406.13725). Under review <br/>
+*Hoang V. Tran\*, __Trang Pham\*__, Tho Tran, Tam Le\**, Tan Nguyen\** *<br/>
 
 ## Professional Services
-- Conference Reviewer: ICML (2022-2025), NeurIPS (2022-2024), AISTATS (2022-2025), ICLR (2024-2025), and AAAI (2025).
-- Journal Reviewer: Electronic Journal of Statistics, Transactions on Machine Learning Research.
+- Conference Reviewer: ICLR (2025) and AISTATS (2025).
+
+## Teaching Experience
+- Teaching assistant, Object-oriented programming (IT3100E), HUST.
+- Teaching assistant, Introduction to Data Science (IT4142E), HUST.
