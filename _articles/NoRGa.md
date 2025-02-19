@@ -1,7 +1,7 @@
 ---
 title: "Mixture of Experts Meets Prompt-Based Continual Learning"
 category: articles
-permalink: "/publications/EntropicGW/"
+permalink: "/publications/NoRGa/"
 venue: "38th Annual Conference on Neural Information Processing Systems (NeurIPS)"
 date: 27-09-2024
 link: ....
